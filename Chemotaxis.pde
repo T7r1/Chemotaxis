@@ -18,7 +18,7 @@ void draw(){
   background(0);
  for (int u=0;u<bob.length;u++){
   bob[u].show();
-  //System.out.print(bob[i].myX);
+  ////System.out.print(bob[i].myX);
   bob[u].walk();
 
 }
@@ -67,12 +67,12 @@ if (f==true){
 }
 //we=second();
 
-////System.out.println (we);
+//////System.out.println (we);
 //if (me+.01<=we){
   myX+=b;
  myY+=p;
+////System.out.println (myX);
 //System.out.println (myX);
-System.out.println (myX);
 // me=second();
 //}
         
