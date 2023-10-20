@@ -50,19 +50,19 @@ void draw(){
 //if (f==true){
  //b=(int)(Math.random()*21-10);
  //p=(int)(Math.random()*21)-10;
-      for (int h=0;h<20;h++){
+      for (int h=0;h<50;h++){
       if (mouseX>myX)
       
-              b=-(float)(Math.random()*500/r)+2.7;
+              b=-(float)(Math.random()*500/r)+3;
 
       else
-            b=(float)(Math.random()*500/r)-2.7; 
+            b=(float)(Math.random()*500/r)-3; 
 
         if (mouseY>myY)
-                p=-(float)(Math.random()*500/r)+2.7;
+                p=-(float)(Math.random()*500/r)+3;
 
         else
-                p=(float)(Math.random()*500/r)-2.7;
+                p=(float)(Math.random()*500/r)-3.4;
 
        // f=false;
 
@@ -86,6 +86,3 @@ void draw(){
 
   }
   }
-
-
-
