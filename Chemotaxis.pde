@@ -1,5 +1,4 @@
-//painful stuff mk 3
-//morepainfulstuff
+//Scatterfly
 walker []bob;
         
 //boolean f=true;
