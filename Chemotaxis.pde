@@ -61,7 +61,7 @@ void draw(){
                 p=-(float)(Math.random()*500/r)+3;
 
         else
-                p=(float)(Math.random()*500/r)-3.4;
+                p=(float)(Math.random()*500/r)-3.2;
 
        // f=false;
 
